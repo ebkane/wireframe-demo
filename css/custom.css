@@ -13,6 +13,7 @@ img {
 }
 
 #what {
+  width: auto;
   padding-right: 25%;
   padding-left: 50px;
   position: absolute;
