@@ -8,13 +8,13 @@ img {
   padding-bottom: 50px;
   padding-top: 10px;
   margin-right: 15px;
-  margin-left: 50px;
+  margin-left: 120px;
   position: absolute;
 }
 
 .one {
   width: auto;
-  padding-right: 25%;
-  padding-left: 50px;
+  margin-right: 25%;
+  margin-left: 120px;
   position: absolute;
 }
